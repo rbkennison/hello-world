@@ -1,0 +1,17 @@
+.navigation {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+body > div > .card {
+    display: flex;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+
+.card > p {
+    padding: 20px;
+}
